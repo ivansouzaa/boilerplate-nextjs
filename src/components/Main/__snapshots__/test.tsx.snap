@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  background-color: #06092b;
+  color: #fff;
+}
+
+.c1 {
+  font-size: 2.5rem;
+}
+
+.c2 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+<main
+  class="c0"
+>
+  <h1
+    class="c1"
+  >
+    Test title
+  </h1>
+  <h2
+    class="c2"
+  >
+    Test description
+  </h2>
+</main>
+`;
